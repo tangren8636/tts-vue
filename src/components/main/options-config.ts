@@ -47,7 +47,7 @@ const findVoicesByLocaleName = (localeName: any) => {
 const apiSelect = [
   {
     value: 1,
-    label: "Microsoft Speech API",
+    label: "Azure Speech API",
   },
   {
     value: 2,
@@ -55,7 +55,7 @@ const apiSelect = [
   },
   {
     value: 3,
-    label: "Azure Speech API",
+    label: "Microsoft  Speech API",
   },
 ];
 
